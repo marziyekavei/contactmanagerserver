@@ -86,8 +86,5 @@
       "id": "5",
       "name": "آشنا"
     }
-  ],
-  "scripts": {
-    "start": "json-server --watch db.json --port 3000"
-  }
+  ]
 }
